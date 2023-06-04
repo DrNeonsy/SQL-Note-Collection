@@ -1,6 +1,6 @@
 # Dropping a Database
 
-To drop (remove / delete) a database, use the `DROP DATABASE` statement.
+To drop (remove / delete) a Database, use the `DROP DATABASE` Keyword(s).
 
 ## Command
 
