@@ -5,7 +5,7 @@ To insert Data into a Table, use the `INSERT INTO` Keyword(s).
 ## Command
 
 ```sql
-INSERT INTO table_name VALUES (column1, column2, column3, ...)
+INSERT INTO Table_name VALUES (Column1, Column2, Column3, ...)
 ```
 
 ## Example
@@ -16,7 +16,7 @@ INSERT INTO Entities VALUES (1, 'Whitmore', 'Darzen', 'Neonlane', 'Neonsphere')
 
 ## Note
 
-This is a very common approach, but it's not recommended because specifying is a much safer way of inserting data, seeing that for example you don't necessarily know all the columns and their types and you don't always have all the data for every column.
+This is a very common approach, but it's not recommended because specifying is a much safer way of inserting Data, seeing that for example you don't necessarily know all the Columns and their types and you don't always have all the Data for every Column.
 
 ## Output
 

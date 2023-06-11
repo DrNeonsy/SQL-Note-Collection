@@ -5,7 +5,7 @@ To drop a Column, use the `DROP COLUMN` Keyword(s).
 ## Command
 
 ```sql
-ALTER TABLE table_name DROP COLUMN column_name;
+ALTER TABLE Table_name DROP COLUMN Column_name;
 ```
 
 ## Example

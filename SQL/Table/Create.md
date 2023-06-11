@@ -5,10 +5,10 @@ To create a Table, use the `CREATE TABLE` Keyword(s).
 ## Command
 
 ```sql
-CREATE TABLE table_name (
-    column1 datatype,
-    column2 datatype,
-    column3 datatype,
+CREATE TABLE Table_name (
+    Column1 Datatype,
+    Column2 Datatype,
+    Column3 Datatype,
 );
 ```
 
@@ -38,18 +38,18 @@ CREATE TABLE `Entities` (
 
 ## Note
 
-You must be inside a Database using the [`USE`](../Databases/Use.md) Keyword(s) before you can create a Table.
-Make sure that you have the correct data types for each Column. If you don't, you might get an error in later examples.
+You must be inside a Database using the [`USE`](../Database/Use.md) Keyword(s) before you can create a Table.
+Make sure that you have the correct Data types for each Column. If you don't, you might get an error in later examples.
 
 ## Brief Explanation
 
-If you are interested in learning more about the code: The "DEFAULT NULL" means that if we don't specify a value for a column when adding a new row, it will be set to NULL.
+If you are interested in learning more about the code: The "DEFAULT NULL" means that if we don't specify a value for a Column when adding a new Row, it will be set to NULL.
 
 The "ENGINE=InnoDB" means that we are using the InnoDB storage engine.
 
 > InnoDB is a general-purpose storage engine that balances high reliability and high performance.
 > In MySQL 8.0, InnoDB is the default MySQL storage engine.
-> Unless you have configured a different default storage engine, issuing a CREATE TABLE statement without an ENGINE clause creates an InnoDB table.
+> Unless you have configured a different default storage engine, issuing a CREATE TABLE statement without an ENGINE clause creates an InnoDB Table.
 
 The "DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci" means that we are using the UTF-8 character set.
 CI stands for Case Insensitive, which means that the Database will ignore the case of the letters when comparing them.

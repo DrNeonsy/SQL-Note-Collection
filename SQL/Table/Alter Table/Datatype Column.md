@@ -5,7 +5,7 @@ To modify the Datatype of a Column, use the `MODIFY COLUMN` Keyword(s).
 ## Command
 
 ```sql
-ALTER TABLE table_name MODIFY COLUMN column_name datatype;
+ALTER TABLE Table_name MODIFY COLUMN Column_name Datatype;
 ```
 
 ## Example

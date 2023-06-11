@@ -5,7 +5,7 @@ To select a Table, use the `SELECT` Keyword(s).
 ## Command
 
 ```sql
-SELECT * FROM table_name;
+SELECT * FROM Table_name;
 ```
 
 ## Example
@@ -16,8 +16,8 @@ SELECT * FROM Entities;
 
 ## Note
 
-Selecting a Table (using the asterisk) will return all of the tables data.
-The output will only show you the columns because we have no data at the moment.
+Selecting a Table (using the asterisk) will return all of the Tables Data.
+The output will only show you the Columns because we have no Data at the moment.
 
 ## Output
 

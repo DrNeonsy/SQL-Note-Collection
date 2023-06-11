@@ -2,13 +2,13 @@
 
 ### This Repo Is A Collection Of The Knowledge I've Gathered Within The World Of SQL
 
-![SQL](https://img.shields.io/badge/-SQL-802600)
-![PHPMyAdmin](https://img.shields.io/badge/-PHPMYADMIN-0045c4)
+![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
+![PHPMYADMIN](https://img.shields.io/badge/PHP%20My%20Admin-black?style=for-the-badge&logo=phpmyadmin)
 
-![Linux](https://img.shields.io/badge/-Linux-ff6200)
-![Nginx](https://img.shields.io/badge/-Nginx-008a12)
-![MariaDB](https://img.shields.io/badge/-MariaDB-ae00ff)
-![PHP](https://img.shields.io/badge/-PHP-035efc)
+![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
+![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx)
+![MariaDB](https://img.shields.io/badge/mariadb-black?style=for-the-badge&logo=mariadb)
+![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
 
 ## How To Use
 
@@ -26,9 +26,14 @@ Also make sure to end each statement with a semicolon `;`. This can be optional 
 
 -   [Data](SQL/Data)
     -   [Intro](SQL/Data/$Intro.md)
-    -   [Insert Into](SQL/Data/Insert)
-        -   [Insert Into (Common)](<SQL/Data/Insert/Insert Into (Common).md>)
-        -   [Insert Into (Specific)](<SQL/Data/Insert/Insert Into (Specific).md>)
+    -   [Delete](SQL/Data/Delete.md)
+    -   [Insert](SQL/Data/Insert)
+        -   [Insert Into (Common)](<SQL/Data/Insert/Insert%20Into%20(Common).md>)
+        -   [Insert Into (Specific)](<SQL/Data/Insert/Insert%20Into%20(Specific).md>)
+    -   [Select](SQL/Data/Select)
+        -   [Select (General)](<SQL/Data/Select/Select%20(General).md>)
+        -   [Select (Specific)](<SQL/Data/Select/Select%20(Specific).md>)
+    -   [Update](SQL/Data/Update.md)
 -   [Database](SQL/Database)
     -   [Intro](SQL/Database/$Intro.md)
     -   [Create](SQL/Database/Create.md)
@@ -47,3 +52,5 @@ Also make sure to end each statement with a semicolon `;`. This can be optional 
     -   [Rename](SQL/Table/Rename.md)
     -   [Select](SQL/Table/Select.md)
     -   [Truncate](SQL/Table/Truncate.md)
+-   [Tests](SQL/Tests)
+    -   [Intro](SQL/Tests/$Intro.md)

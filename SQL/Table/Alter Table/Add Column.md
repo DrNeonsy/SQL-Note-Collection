@@ -5,7 +5,7 @@ To add a Column, use the `ADD COLUMN` Keyword(s).
 ## Command
 
 ```sql
-ALTER TABLE table_name ADD COLUMN column_name data_type;
+ALTER TABLE Table_name ADD COLUMN Column_name Data_type;
 ```
 
 ## Example

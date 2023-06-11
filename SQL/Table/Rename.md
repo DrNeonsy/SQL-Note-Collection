@@ -5,7 +5,7 @@ To rename a Table, use the `RENAME TABLE` Keyword(s).
 ## Command
 
 ```sql
-RENAME TABLE table_name TO new_table_name;
+RENAME TABLE Table_name TO new_Table_name;
 ```
 
 ## Example

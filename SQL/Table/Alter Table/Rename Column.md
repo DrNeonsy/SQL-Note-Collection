@@ -5,7 +5,7 @@ To rename a Column, use the `RENAME COLUMN` Keyword(s).
 ## Command
 
 ```sql
-ALTER TABLE table_name RENAME COLUMN column_name TO new_column_name;
+ALTER TABLE Table_name RENAME COLUMN Column_name TO new_Column_name;
 ```
 
 ## Example

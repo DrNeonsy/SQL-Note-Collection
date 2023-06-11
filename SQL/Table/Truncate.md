@@ -1,6 +1,6 @@
 # Truncating a Table
 
-To truncate (remove all data) from a Table, use the `TRUNCATE` Keyword(s).
+To truncate (remove all Data) from a Table, use the `TRUNCATE` Keyword(s).
 
 ## Command
 

@@ -5,7 +5,7 @@ To move a Column, use the `AFTER` or `FIRST` Keyword(s).
 ## Command
 
 ```sql
-ALTER TABLE table_name MODIFY column_name datatype AFTER column_name (TO PUT AFTER);
+ALTER TABLE Table_name MODIFY Column_name Datatype AFTER Column_name (TO PUT AFTER);
 ```
 
 ## Example
@@ -16,7 +16,7 @@ ALTER TABLE Entities MODIFY PersonID INT AFTER LastName;
 
 ## Note
 
-I'm undoing this change in the example, because I don't want to mess up the order of the columns in the Table.
+I'm undoing this change in the example, because I don't want to mess up the order of the Columns in the Table.
 
 ## Position To First Column
 
