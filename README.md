@@ -24,6 +24,11 @@ Also make sure to end each statement with a semicolon `;`. This can be optional 
 
 ## Section Overview
 
+-   [Data](SQL/Data)
+    -   [Intro](SQL/Data/$Intro.md)
+    -   [Insert Into](SQL/Data/Insert)
+        -   [Insert Into (Common)](<SQL/Data/Insert/Insert Into (Common).md>)
+        -   [Insert Into (Specific)](<SQL/Data/Insert/Insert Into (Specific).md>)
 -   [Database](SQL/Database)
     -   [Intro](SQL/Database/$Intro.md)
     -   [Create](SQL/Database/Create.md)
@@ -41,3 +46,4 @@ Also make sure to end each statement with a semicolon `;`. This can be optional 
     -   [Drop](SQL/Table/Drop.md)
     -   [Rename](SQL/Table/Rename.md)
     -   [Select](SQL/Table/Select.md)
+    -   [Truncate](SQL/Table/Truncate.md)
